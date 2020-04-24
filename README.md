@@ -1,1 +1,0 @@
-# number-guess-react-native
